@@ -1,15 +1,12 @@
 #pyup-tools
-==========
 
 Tools for pyup.io
 
 ##Installation
-------------
 
     pip install pyup-tools
 
 ##Usage
------
 
 To test a devpi server, run
 
